@@ -1,9 +1,0 @@
-7/10/2017
-Authors: Alex Henderson, Matt Jones
-
-Name: ??
-
-Genre: Probably Real Time Strategy
-
-Game Engine: Unity
-
